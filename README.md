@@ -56,4 +56,4 @@ If you compare the encrypted file and the original file you will notice that the
 
 # Video Demonstration
 
-These [YouTube link](https://youtu.be/J2LBhwQn0k4) [YouTube link](https://youtu.be/Ia-1kNvci78)  presents a walkthrough of the project capabilities and how to use them.
+These [YouTube link for encryption](https://youtu.be/Ia-1kNvci78) [YouTube link for decryption](https://youtu.be/J2LBhwQn0k4)   presents a walkthrough of the project capabilities and how to use them.
