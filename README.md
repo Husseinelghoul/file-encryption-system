@@ -39,7 +39,7 @@ The generated key is a fernet key used to *encrypt*  and decrypt the files. Each
 `python3 app.py`
 
 ## Testing the program
-##### A. Encrypt
+### A. Encrypt
 
 First, start by uploading a file by clicking on the **choose file** button under the **Encrypt** label, and add your custom secret code in the text box and hit enter *(if you do not enter any secret code the empty string will be used as a secret code instead)*. Afterward, you should be prompted to download the encrypted file
 
