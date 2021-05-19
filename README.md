@@ -2,7 +2,7 @@
 The idea of this project is to securely protect data against stealing by preventing anyone to access the data saved in a certain file (image, text, Docx, pdf, etc..)
 Our service will be provided on a web application where the user uploads a file with an optional password and then downloads from the website an encrypted copy of the file. The user could also upload an encrypted copy with the appropriate password, if the user fails to submit the right password to the decrypter, an invalid request page will be shown.
 
-*Note: This program is designed to work on both Windows and Unix-based operating systems and is also designed to encrypt files or any byte object*
+*Note: This program is designed to work on both Windows and Unix-based operating systems and is also designed to encrypt files or any byte object.*
 # How is it Different?
 The project is not different from other encryption services except that it is very simple and easy to use and very lightweight, it doesn't take a lot of time to encrypt or decrypt and it provides the user with instant results.
 
