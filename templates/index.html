@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>283 project</title>
+</head>
+
+<body>
+  <h1 style="color: green">Encrypt and decrypt files</h1>
+  <p>A tool to encrypt and decrypt files</p>
+
+  <h4>Encrypt</h4>
+  <form action="/encrypt" method="POST" 
+    enctype = "multipart/form-data">
+    <input type="file" name="file" />
+    <input type="text" placeholder="passphrase" name="passphrase">
+    <input type="submit"/>
+  </form>   
+
+  <h4>Decrypt</h4>
+  <form action = "/decrypt" method = "POST" 
+    enctype = "multipart/form-data">
+    <input type="file" name="file" />
+    <input type="text" placeholder="passphrase" name="passphrase">
+    <input type="submit"/>
+  </form>
+  
+</body>
+</html>
